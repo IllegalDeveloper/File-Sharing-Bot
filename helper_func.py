@@ -1,4 +1,4 @@
-#(©)Codexbotz
+#(©)Illegal_Developers
 
 import base64
 import re
